@@ -55,7 +55,14 @@
 
 ## 🎨 Preview | Vorschau | 预览
 
-*(Tip: Drag and drop your app screenshot here to show off those cute macarons!)*
+<img width="455" height="608" alt="image" src="https://github.com/user-attachments/assets/5f99775c-0672-4f1c-97f7-010d0cf80990" />
+<img width="429" height="701" alt="image" src="https://github.com/user-attachments/assets/13ad1e7f-daa2-4ac3-a226-bf95f62e9a32" />
+<img width="421" height="711" alt="image" src="https://github.com/user-attachments/assets/43a65901-f16f-4abf-9d95-2f39d9f944f5" />
+<img width="429" height="722" alt="image" src="https://github.com/user-attachments/assets/7012d5b9-787f-4c91-9777-90ad413308c6" />
+<img width="435" height="722" alt="image" src="https://github.com/user-attachments/assets/1a3e16e8-6064-4f85-ba6b-311083c9db4e" />
+<img width="446" height="723" alt="image" src="https://github.com/user-attachments/assets/5656b112-5807-420b-b719-d56d0f6d4ff7" />
+
+
 
 ---
 
