@@ -1,0 +1,53 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Comfortaa", cursive;
+  --font-serif: "Playfair Display", serif;
+  
+  --color-ballet-rosa: #FCE4EC;
+  --color-vanilla-bg: #F0F9FF;
+  --color-vanilla-accent: #BAE6FD;
+  --color-mint-bg: #F0FDF4;
+  --color-mint-accent: #BBF7D0;
+  --color-lavender-bg: #FAF5FF;
+  --color-lavender-accent: #E9D5FF;
+  
+  --color-macaron-pink: #FCE4EC;
+  --color-macaron-blue: #E1F5FE;
+  --color-macaron-green: #E8F5E9;
+  --color-macaron-yellow: #FFFDE7;
+  --color-macaron-purple: #F3E5F5;
+}
+
+@layer base {
+  body {
+    @apply font-sans text-slate-800 bg-ballet-rosa;
+  }
+  
+  h1, h2, h3, h4 {
+    @apply font-display;
+  }
+}
+
+.macaron-shadow {
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.02);
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+.perspective-1000 {
+  perspective: 1000px;
+}
